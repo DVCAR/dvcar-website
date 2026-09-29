@@ -1,7 +1,7 @@
 # DVC Autonomous Racing
 
 A student club at Diablo Valley College building a self-driving electric
-go-kart to compete in the [Autonomous Karting Series](https://autonomouskarting.com)
+go-kart to compete in the [Autonomous Karting Series](https://www.autonomouskartingseries.com/)
 at Purdue in May 2027.
 
 ## This repo
